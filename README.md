@@ -1,1 +1,2 @@
 # GitFlow-Practice
+## Branch strategy
